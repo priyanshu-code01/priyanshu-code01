@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Advanced React & Tailwind CSS Projects**<br>👯 I’m looking to collaborate on **Open Source Frontend Projects**<br>🤝 I’m looking for help with **Backend Integration (Node.js)**<br>🌱 I’m currently learning **Next.js and State Management (Redux)**<br>💬 Ask me about **React Hooks, Tailwind Architecture, and Responsive Design**<br>⚡ Fun fact **I can center a div in 5 different ways!**
+🔭 I’m currently working on **Advanced React & Tailwind CSS Projects**<br>👯 I’m looking to collaborate on **Open Source Frontend Projects**<br>🤝 I’m looking for help with **Backend Integration (Node.js)**<br>🌱 I’m currently learning State Management (Redux)**<br>💬 Ask me about **React Hooks, Tailwind Architecture, and Responsive Design**<br>⚡ Fun fact **I can center a div in 5 different ways!**
 
 
 ## 🌐 Socials:
